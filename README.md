@@ -1,11 +1,11 @@
 <h1 align="center">
-    <img src=""> 
+    <img src="src/assets/tela-com-consulta.png"> 
 </h1>
 
 ---
 
 <h1 align="center">
-    <img src="" width="600px"> 
+    <img src="src/assets/tela-sem-consulta.png" width="600px"> 
 </h1>
 
 ## 🏷️ Sobre 
@@ -61,8 +61,6 @@ localhost:5173
 ---
 ## 📝 Licença
 Copyright © 2025 [@joaopedrovidal](...)
-
-Este projeto está sobe a [LICENÇA MIT](https://opensource.org/licenses/MIT)
 
 ---
 
