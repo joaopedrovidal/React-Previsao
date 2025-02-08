@@ -62,8 +62,6 @@ localhost:5173
 ## 📝 Licença
 Copyright © 2025 [@joaopedrovidal](...)
 
-Este projeto está sobe a [LICENÇA MIT](https://opensource.org/licenses/MIT)
-
 ---
 
 ### Desenvolvido 💜 by João Pedro Vidal
