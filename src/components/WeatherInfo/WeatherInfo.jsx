@@ -1,4 +1,5 @@
 import styles from './WeatherInfo.module.css';
+import React from 'react';
 
 
 export function WeatherInfo ({ weather }){ 

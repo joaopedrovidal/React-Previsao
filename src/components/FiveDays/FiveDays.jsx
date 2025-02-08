@@ -1,4 +1,5 @@
 import styles from './FiveDays.module.css'
+import React from 'react';
 
 export function FiveDays({ weather5Days }){
     console.log(weather5Days)
