@@ -1,8 +1,69 @@
-# React + Vite
+<h1 align="center">
+    <img src=""> 
+</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+<h1 align="center">
+    <img src="" width="600px"> 
+</h1>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🏷️ Sobre 
+**React-Previsao**: Desafio proposto no durante um vídeo do canal DevClub.
+O desafio proposto era:
+- [x] Buscar cidades através de um input
+- [x] Consultar uma API através do valor do input
+- [x] Conseguir destrinchar o retorno da API
+- [x] Exibir as informações necessárias em tela através da consulta realizada
+## ⚠️OBS
+
+-  API utilizada: https://openweathermap.org/
+---
+
+## 🛠️ Tecnologias e serviços utilizados
+Foram utilizadas as seguintes tecnologias para desenvolver a aplicação **React-Previsao** :
+
+- [HTML5](https://html.com/)
+- [React.js](https://pt-br.reactjs.org/)
+- [Vite](https://www.vitetlang.org/)
+- [OpenWeather](https://openweathermap.org/)
+
+---
+
+## 🗂️ Como baixar e iniciar o projeto 
+
+```bash
+
+    #clonar o projeto
+    $ git clone https://github.com/joaopedrovidal/React-Previsao.git
+
+    #entrar no diretório
+    $ cd React-Previsao
+
+    #instalar as dependências
+    $ npm install
+
+    #iniciar a aplicação
+    $ npm run dev
+```
+### Servidor local
+localhost:5173
+
+---
+
+## Autor
+### 👤 João Pedro Vidal
+
+- Linkedin: [@joaopedrovidal](https://www.linkedin.com/in/jo%C3%A3opedrovidaldossantos/)
+- Github: [@joaopedrovidal](https://github.com/joaopedrovidal)
+- Deploy: [...](...)
+
+---
+## 📝 Licença
+Copyright © 2025 [@joaopedrovidal](...)
+
+Este projeto está sobe a [LICENÇA MIT](https://opensource.org/licenses/MIT)
+
+---
+
+### Desenvolvido 💜 by João Pedro Vidal
